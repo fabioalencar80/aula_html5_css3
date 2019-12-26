@@ -1,3 +1,22 @@
 body {
     background: #F8F067;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: red;
+    font-family: fantazy;
+}
+h2 {
+    font-family: fantasy;
+}
+p {font-size: 18px;
+}
+
+header {margin-top: 10px;
+}
+
+img {margin-bottom: 20px;
 }
